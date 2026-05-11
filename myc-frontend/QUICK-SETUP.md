@@ -45,9 +45,11 @@ echo "VITE_GOOGLE_TRANSLATE_API_KEY=your-key-here" > .env.local
 
 Replace `your-key-here` with the actual key from Step 1.
 
-**Example:**
+⚠️ **IMPORTANT:** Never share your API key! It starts with `AIzaSy...` and is unique to you.
+
 ```bash
-echo VITE_GOOGLE_TRANSLATE_API_KEY=AIzaSyA1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q > .env.local
+# Replace YOUR_KEY_HERE with your actual key from Step 1
+echo VITE_GOOGLE_TRANSLATE_API_KEY=YOUR_KEY_HERE > .env.local
 ```
 
 ---
