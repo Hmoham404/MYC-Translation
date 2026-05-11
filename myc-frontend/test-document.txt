@@ -1,0 +1,12 @@
+Test du système de traduction
+
+Ceci est un texte de test pour vérifier que le système de traduction fonctionne correctement.
+
+Vous pouvez télécharger ce fichier et le traduire en différentes langues.
+
+Le système doit :
+1. Extraire le texte du fichier
+2. Afficher un aperçu du texte traduit
+3. Permettre le téléchargement du fichier traduit
+
+Testez et dites-moi si cela fonctionne !

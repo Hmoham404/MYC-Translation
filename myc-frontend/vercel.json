@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "installCommand": "npm install --legacy-peer-deps",
+  "env": {
+    "NODE_ENV": "production",
+    "VITE_API_URL": "@vite-api-url"
+  },
+  "envPrefix": "VITE_"
+}
